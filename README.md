@@ -1,3 +1,3 @@
 #demo example 
 
-this is where i could put text to example !
+this is where i could put text for an example !
